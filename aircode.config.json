@@ -1,0 +1,11 @@
+{
+  "name": "Feishu Gemini Bot",
+  "runtime": "node/v18",
+  "region": "US",
+  "envs": [
+    "FEISHU_APP_ID",
+    "FEISHU_APP_SECRET",
+    "GEMINI_API_KEY"
+  ],
+  "typescript": false
+}
